@@ -1134,7 +1134,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 0.8
+      m_SerializableObject: 1.6
     m_Space: -1
   m_Property:
     name: _Size
@@ -2145,7 +2145,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 1.5
+      m_SerializableObject: 3
     m_Space: -1
   m_Property:
     name: _Size
@@ -3055,7 +3055,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"bb11a1e5426852a4da8a883974a2efd7","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"f56f93fad8b734a49a8cb0697dbe57ae","type":3}}'
     m_Space: -1
   m_Property:
     name: _NoiseText
@@ -3193,7 +3193,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Vector2, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"x":-0.20000000298023225,"y":-0.3499999940395355}'
+      m_SerializableObject: '{"x":-0.15000000596046449,"y":-0.25}'
     m_Space: -1
   m_Property:
     name: _NoiseSpeed
@@ -3293,7 +3293,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: UnityEngine.Texture2D, UnityEngine.CoreModule, Version=0.0.0.0,
           Culture=neutral, PublicKeyToken=null
-      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"9fafed76e843362449d9cc96ac5d61ed","type":3}}'
+      m_SerializableObject: '{"obj":{"fileID":2800000,"guid":"848a1c43ecd5a7840a7179b0262e32e9","type":3}}'
     m_Space: -1
   m_Property:
     name: _MaskText
@@ -3525,7 +3525,7 @@ MonoBehaviour:
       m_Type:
         m_SerializableType: System.Single, mscorlib, Version=4.0.0.0, Culture=neutral,
           PublicKeyToken=b77a5c561934e089
-      m_SerializableObject: 1.5
+      m_SerializableObject: 3
     m_Space: -1
   m_Property:
     name: _Size
